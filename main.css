@@ -351,6 +351,17 @@ body p {
   text-align: center;
 }
 
+.card-group5 {
+  background-color: #f3f3f3;
+  font-family: "Roboto", sans-serif;
+  height: 260px;
+  width: 800px;
+  padding: 50px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
 .text-under {
   display: block;
   margin: 0px auto;
